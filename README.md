@@ -13,7 +13,7 @@ Left: original piece; Right: recreation using Processing
 </p>
 
 ////
-
+```
 void setup() {
   size(400, 400);
   background(255);
@@ -33,4 +33,4 @@ void setup() {
 
 void draw() {
 }
-
+```
