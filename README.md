@@ -2,7 +2,7 @@ Recreating The Past
 
 Week 1
 
-Rcreating Vera Molnar
+Recreating Vera Molnar's work
 
 Left: original piece; Right: recreation using Processing
 
@@ -11,4 +11,4 @@ Left: original piece; Right: recreation using Processing
   <img src="https://user-images.githubusercontent.com/93593792/139862059-33faf040-0f84-4913-b394-c7da97589588.png" width="400" />
 
 </p>
->
+
