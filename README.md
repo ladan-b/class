@@ -12,3 +12,25 @@ Left: original piece; Right: recreation using Processing
 
 </p>
 
+////
+
+void setup() {
+  size(400, 400);
+  background(255);
+  rectMode(CENTER);
+  frameRate(1);
+
+  push();
+    for (int x=0; x<width; x=x+10) 
+    for (int y=0; y<height; y=y+10) 
+    {   
+      translate(10, 10);
+      rotate(random(HALF_PI , PI));  ;
+      rect(x, y, 0.01, 50);
+    }
+    pop();
+}
+
+void draw() {
+}
+
